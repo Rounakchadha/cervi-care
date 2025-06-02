@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/cervi-care/static/css/main.96f384c9.css",
+    "main.js": "/cervi-care/static/js/main.886aed3c.js",
+    "static/js/453.7848caff.chunk.js": "/cervi-care/static/js/453.7848caff.chunk.js",
+    "static/media/doctor.png": "/cervi-care/static/media/doctor.690895cdb2ff6054e5a3.png",
+    "static/media/awareness.png": "/cervi-care/static/media/awareness.ea528af4adaf18f987e5.png",
+    "static/media/vaccine.png": "/cervi-care/static/media/vaccine.0eb60297d64e10d06950.png",
+    "static/media/chatbot.png": "/cervi-care/static/media/chatbot.527125db6b61fea2dc05.png",
+    "index.html": "/cervi-care/index.html",
+    "main.96f384c9.css.map": "/cervi-care/static/css/main.96f384c9.css.map",
+    "main.886aed3c.js.map": "/cervi-care/static/js/main.886aed3c.js.map",
+    "453.7848caff.chunk.js.map": "/cervi-care/static/js/453.7848caff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96f384c9.css",
+    "static/js/main.886aed3c.js"
+  ]
+}
